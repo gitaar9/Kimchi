@@ -1,2 +1,2 @@
 # Kimchi
-Kimchi
+Kimchi mod
